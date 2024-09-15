@@ -6,6 +6,7 @@
     --cl1: #F9FAF8;
     --cl2: #E5E7EB;
     --hover-color: #ffffff;
+    --jaune: #FC9100;
 
 }
 
@@ -96,7 +97,7 @@ nav a {
 }
 
 .sign-up {
-    background-color: var(--bg-cl4);
+    background-color: var(--jaune);
     color: var(--cl1);
     height: 30px;
     width: 120px;
